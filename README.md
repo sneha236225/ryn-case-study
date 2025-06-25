@@ -19,3 +19,10 @@ This is a pixel-perfect implementation of the **RYN - Case Study Website** based
 Coming soon (Vercel deployed link will be added here)
 
 ## 📁 Folder Structure
+src/
+├── assets/
+├── components/
+├── App.jsx
+└── main.jsx
+
+Designed & built by **Sneha Agrawal** 
