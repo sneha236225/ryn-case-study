@@ -1,12 +1,21 @@
-# React + Vite
+# RYN - Case Study Website ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a pixel-perfect implementation of the **RYN - Case Study Website** based on the Figma design provided as part of the **Creatiwise Front-End Test Assignment**.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
+- **React.js**
+- **Tailwind CSS**
+- **Vite**
+- **Responsive Design**
+- **Google Fonts (Syne, Poppins)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📐 Features
+- Fully responsive layout across all devices
+- Custom fonts + outlined marquee text
+- Clean and accessible codebase
+- Matched all sections (Hero, Marquee, Expertise, Let's Talk, etc.) per Figma
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+Coming soon (Vercel deployed link will be added here)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Folder Structure
