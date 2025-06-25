@@ -16,7 +16,7 @@ This is a pixel-perfect implementation of the **RYN - Case Study Website** based
 - Matched all sections (Hero, Marquee, Expertise, Let's Talk, etc.) per Figma
 
 ## 🚀 Live Demo
-Coming soon (Vercel deployed link will be added here)
+(https://ryn-case-study-owcl.vercel.app)
 
 ## 📁 Folder Structure
 src/
